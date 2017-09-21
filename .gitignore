@@ -1,0 +1,10 @@
+# intellij
+.idea
+*.iml
+
+.project
+.classpath
+.settings
+.metadata
+target
+bin
